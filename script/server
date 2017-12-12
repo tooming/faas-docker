@@ -1,0 +1,6 @@
+# forked a solution for automating docker swarm in vagrant with ansible
+# from https://github.com/mrlesmithjr/vagrant-ansible-docker-swarm
+git clone https://github.com/tooming/vagrant-ansible-docker-swarm vads
+
+cd vads
+vagrant up
