@@ -6,6 +6,10 @@ Run:
 ./script/server
 ```
 
+OpenFaaS Portal is then accessible at faas.dev if vagrant-hostsupdater plugin is installed for Vagrant:
+
+http://faas.dev:8080/ui/
+
 ## Background ##
 For setting up Docker Swarm, forked an existing solution from:
 
